@@ -8,7 +8,7 @@
     alt="Ganatan Angular Example Demo" width="140" height="140">
   </a>
 
-it's a repo designed to create a **Web Application with Angular 10**
+it's a repo designed to create a **Web Application with Angular 10** Examen 2022
 
 
 * Frontend - [**Angular 10.2.2**](https://github.com/angular/angular/releases) & [**Angular CLI 10.2.0**](https://github.com/angular/angular-cli/releases/)
